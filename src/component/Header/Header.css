@@ -1,0 +1,17 @@
+.header{
+    background: #000;
+}
+.nav-main{
+    padding: 1% 5%;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.nav-main a{
+    text-decoration: none;
+    color: White;
+    margin:6px;
+}
+.nav-main a:hover{
+   color:tomato;
+}
